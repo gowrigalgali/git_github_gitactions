@@ -5,3 +5,5 @@ mul=a*b
 divide=a/b
 sub=a-b
 remainder=a%b
+print(sum)
+print(mul)
