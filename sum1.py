@@ -4,3 +4,4 @@ sum=a+b
 mul=a*b
 divide=a/b
 sub=a-b
+remainder=a%b
